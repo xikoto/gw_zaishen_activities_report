@@ -1,0 +1,14 @@
+scraper:
+  url: "https://example.com"
+  timeout: 30
+
+schedule:
+  hour: 16
+  minute: 0
+  timezone: "Europe/Madrid"
+
+discord:
+  enabled: true
+
+storage:
+  results_directory: "data/results"
