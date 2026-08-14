@@ -31,5 +31,5 @@ jobs:
           print("Content-Length:", response.headers.get("Content-Length"))
           print("URL:", response.url)
           print()
-          print(response.text[:5000])
+          print(response.text[:10000])
           PY
