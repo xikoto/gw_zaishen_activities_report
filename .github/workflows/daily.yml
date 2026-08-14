@@ -1,6 +1,10 @@
 name: Daily Zaishen Report
 
 on:
+  schedule:
+    - cron: "0 16 * * *"
+      timezone: "Europe/Madrid"
+
   workflow_dispatch:
 
 jobs:

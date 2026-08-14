@@ -1,0 +1,31 @@
+name: Test Wiki Access
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test Guild Wars Wiki
+        run: |
+          python - <<'PY'
+          import requests
+
+          url = "https://wiki.guildwars.com/wiki/Daily_activities"
+
+          response = requests.get(
+              url,
+              timeout=30,
+              headers={
+                  "User-Agent": "Mozilla/5.0"
+              }
+          )
+
+          print("Status:", response.status_code)
+          print("Server:", response.headers.get("Server"))
+          print("Content-Type:", response.headers.get("Content-Type"))
+          print("Response:")
+          print(response.text[:1000])
+          PY

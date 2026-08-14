@@ -1,6 +1,9 @@
 scraper:
-  url: "https://example.com"
   timeout: 30
+
+  daily_url: "https://wiki.guildwars.com/wiki/Daily_activities"
+
+  weekly_url: "https://wiki.guildwars.com/wiki/Weekly_bonuses"
 
 schedule:
   hour: 16
