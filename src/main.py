@@ -1,16 +1,11 @@
 from config import load_config
+from discord_client import send_message
 
 
 config = load_config()
 
 print("Zaishen Activities Report")
-print(f"URL: {config['scraper']['url']}")
-print(f"Timeout: {config['scraper']['timeout']} segundos")
-print(
-    f"Schedule: "
-    f"{config['schedule']['hour']:02d}:"
-    f"{config['schedule']['minute']:02d} "
-    f"({config['schedule']['timezone']})"
-)
-print(f"Discord enabled: {config['discord']['enabled']}")
-print(f"Results directory: {config['storage']['results_directory']}")
+
+if config["discord"]["enabled"]:
+    send_message("Hola que tal soy colosal")
+    print("Mensaje enviado a Discord")
