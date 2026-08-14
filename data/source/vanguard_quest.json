@@ -1,0 +1,53 @@
+{
+  "type": "Vanguard Quest",
+  "reference_date": "2011-03-03T16:00:00Z",
+  "reset_time": "16:00:00Z",
+  "cycle_length": 9,
+  "quests": [
+    {
+      "order": 0,
+      "name": "Vanguard Annihilation: Bandits",
+      "short_name": "Bandits"
+    },
+    {
+      "order": 1,
+      "name": "Vanguard Bounty: Utini Wupwup",
+      "short_name": "Utini Wupwup"
+    },
+    {
+      "order": 2,
+      "name": "Vanguard Rescue: Save the Ascalonian Noble",
+      "short_name": "Ascalonian Noble"
+    },
+    {
+      "order": 3,
+      "name": "Vanguard Annihilation: Undead",
+      "short_name": "Undead"
+    },
+    {
+      "order": 4,
+      "name": "Vanguard Bounty: Blazefiend Griefblade",
+      "short_name": "Blazefiend Griefblade"
+    },
+    {
+      "order": 5,
+      "name": "Vanguard Rescue: Farmer Hamnet",
+      "short_name": "Farmer Hamnet"
+    },
+    {
+      "order": 6,
+      "name": "Vanguard Annihilation: Charr",
+      "short_name": "Charr"
+    },
+    {
+      "order": 7,
+      "name": "Vanguard Bounty: Countess Nadya",
+      "short_name": "Countess Nadya"
+    },
+    {
+      "order": 8,
+      "name": "Vanguard Rescue: Footman Tate",
+      "short_name": "Footman Tate"
+    }
+  ]
+}

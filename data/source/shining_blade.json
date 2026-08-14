@@ -1,0 +1,92 @@
+{
+  "type": "Shining Blade",
+  "reference_date": "2010-06-08T16:00:00Z",
+  "reset_time": "16:00:00Z",
+  "cycle_length": 21,
+  "quests": [
+    {
+      "order": 0,
+      "name": "Justiciar Kimii"
+    },
+    {
+      "order": 1,
+      "name": "Zaln the Jaded"
+    },
+    {
+      "order": 2,
+      "name": "Justiciar Sevaan"
+    },
+    {
+      "order": 3,
+      "name": "Insatiable Vakar"
+    },
+    {
+      "order": 4,
+      "name": "Amalek the Unmerciful"
+    },
+    {
+      "order": 5,
+      "name": "Carnak the Hungry"
+    },
+    {
+      "order": 6,
+      "name": "Valis the Rampant"
+    },
+    {
+      "order": 7,
+      "name": "Cerris"
+    },
+    {
+      "order": 8,
+      "name": "Sarnia the Red-Handed"
+    },
+    {
+      "order": 9,
+      "name": "Destor the Truth Seeker"
+    },
+    {
+      "order": 10,
+      "name": "Selenas the Blunt"
+    },
+    {
+      "order": 11,
+      "name": "Justiciar Amilyn"
+    },
+    {
+      "order": 12,
+      "name": "Maximilian the Meticulous"
+    },
+    {
+      "order": 13,
+      "name": "Joh the Hostile"
+    },
+    {
+      "order": 14,
+      "name": "Barthimus the Provident"
+    },
+    {
+      "order": 15,
+      "name": "Calamitous"
+    },
+    {
+      "order": 16,
+      "name": "Greves the Overbearing"
+    },
+    {
+      "order": 17,
+      "name": "Lev the Condemned"
+    },
+    {
+      "order": 18,
+      "name": "Justiciar Marron"
+    },
+    {
+      "order": 19,
+      "name": "Justiciar Kasandra"
+    },
+    {
+      "order": 20,
+      "name": "Vess the Disputant"
+    }
+  ]
+}

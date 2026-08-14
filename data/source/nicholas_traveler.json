@@ -1,0 +1,1105 @@
+{
+  "type": "Nicholas the Traveler",
+  "reference_date": "2011-12-05T15:00:00Z",
+  "reset_time": "15:00:00Z",
+  "period": "weekly",
+  "cycle_length": 137,
+  "rotation": [
+    {
+      "order": 0,
+      "location": "Regent Valley",
+      "region": "Ascalon",
+      "campaign": "Prophecies",
+      "item": "Red Iris Flowers",
+      "quantity": 3
+    },
+    {
+      "order": 1,
+      "location": "Mineral Springs",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Feathered Avicara Scalps",
+      "quantity": 3
+    },
+    {
+      "order": 2,
+      "location": "Poisoned Outcrops",
+      "region": "The Desolation",
+      "campaign": "Nightfall",
+      "item": "Margonite Masks",
+      "quantity": 2
+    },
+    {
+      "order": 3,
+      "location": "Alcazia Tangle",
+      "region": "Tarnished Coast",
+      "campaign": "Eye of the North",
+      "item": "Quetzal Crests",
+      "quantity": 2
+    },
+    {
+      "order": 4,
+      "location": "Wajjun Bazaar",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Plague Idols",
+      "quantity": 3
+    },
+    {
+      "order": 5,
+      "location": "Dreadnought's Drift",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Azure Remains",
+      "quantity": 2
+    },
+    {
+      "order": 6,
+      "location": "Arkjok Ward",
+      "region": "Kourna",
+      "campaign": "Nightfall",
+      "item": "Mandragor Root Cake",
+      "quantity": 1
+    },
+    {
+      "order": 7,
+      "location": "Perdition Rock",
+      "region": "Ring of Fire Islands",
+      "campaign": "Prophecies",
+      "item": "Mahgo Claw",
+      "quantity": 1
+    },
+    {
+      "order": 8,
+      "location": "Saoshang Trail",
+      "region": "Shing Jea Island",
+      "campaign": "Factions",
+      "item": "Mantid Pincers",
+      "quantity": 5
+    },
+    {
+      "order": 9,
+      "location": "Fahranur, The First City",
+      "region": "Istan",
+      "campaign": "Nightfall",
+      "item": "Sentient Seeds",
+      "quantity": 3
+    },
+    {
+      "order": 10,
+      "location": "Sacnoth Valley",
+      "region": "Charr Homelands",
+      "campaign": "Eye of the North",
+      "item": "Stone Grawl Necklaces",
+      "quantity": 2
+    },
+    {
+      "order": 11,
+      "location": "Twin Serpent Lakes",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Herring",
+      "quantity": 1
+    },
+    {
+      "order": 12,
+      "location": "Mount Qinkai",
+      "region": "The Jade Sea",
+      "campaign": "Factions",
+      "item": "Naga Skins",
+      "quantity": 3
+    },
+    {
+      "order": 13,
+      "location": "The Falls",
+      "region": "Maguuma Jungle",
+      "campaign": "Prophecies",
+      "item": "Gloom Seed",
+      "quantity": 1
+    },
+    {
+      "order": 14,
+      "location": "The Breach",
+      "region": "Ascalon",
+      "campaign": "Prophecies",
+      "item": "Charr Hide",
+      "quantity": 1
+    },
+    {
+      "order": 15,
+      "location": "The Alkali Pan",
+      "region": "The Desolation",
+      "campaign": "Nightfall",
+      "item": "Ruby Djinn Essence",
+      "quantity": 1
+    },
+    {
+      "order": 16,
+      "location": "Majesty's Rest",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Thorny Carapaces",
+      "quantity": 2
+    },
+    {
+      "order": 17,
+      "location": "Rhea's Crater",
+      "region": "The Jade Sea",
+      "campaign": "Factions",
+      "item": "Bone Charms",
+      "quantity": 3
+    },
+    {
+      "order": 18,
+      "location": "Varajar Fells",
+      "region": "Far Shiverpeaks",
+      "campaign": "Eye of the North",
+      "item": "Modniir Manes",
+      "quantity": 3
+    },
+    {
+      "order": 19,
+      "location": "Dalada Uplands",
+      "region": "Charr Homelands",
+      "campaign": "Eye of the North",
+      "item": "Superb Charr Carvings",
+      "quantity": 3
+    },
+    {
+      "order": 20,
+      "location": "Zen Daijun (explorable area)",
+      "region": "Shing Jea Island",
+      "campaign": "Factions",
+      "item": "Rolls of Parchment",
+      "quantity": 5
+    },
+    {
+      "order": 21,
+      "location": "Garden of Seborhin",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Roaring Ether Claws",
+      "quantity": 2
+    },
+    {
+      "order": 22,
+      "location": "Bukdek Byway",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Branches of Juni Berries",
+      "quantity": 3
+    },
+    {
+      "order": 23,
+      "location": "Deldrimor Bowl",
+      "region": "Northern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Shiverpeak Manes",
+      "quantity": 3
+    },
+    {
+      "order": 24,
+      "location": "Eastern Frontier",
+      "region": "Ascalon",
+      "campaign": "Prophecies",
+      "item": "Fetid Carapaces",
+      "quantity": 3
+    },
+    {
+      "order": 25,
+      "location": "Gyala Hatchery (explorable area)",
+      "region": "The Jade Sea",
+      "campaign": "Factions",
+      "item": "Moon Shells",
+      "quantity": 2
+    },
+    {
+      "order": 26,
+      "location": "The Arid Sea",
+      "region": "Crystal Desert",
+      "campaign": "Prophecies",
+      "item": "Massive Jawbone",
+      "quantity": 1
+    },
+    {
+      "order": 27,
+      "location": "Ice Cliff Chasms",
+      "region": "Far Shiverpeaks",
+      "campaign": "Eye of the North",
+      "item": "Chromatic Scale",
+      "quantity": 1
+    },
+    {
+      "order": 28,
+      "location": "Ice Floe",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Mursaat Tokens",
+      "quantity": 3
+    },
+    {
+      "order": 29,
+      "location": "Bahdok Caverns",
+      "region": "Kourna",
+      "campaign": "Nightfall",
+      "item": "Sentient Lodestone",
+      "quantity": 1
+    },
+    {
+      "order": 30,
+      "location": "Tangle Root",
+      "region": "Maguuma Jungle",
+      "campaign": "Prophecies",
+      "item": "Jungle Troll Tusks",
+      "quantity": 3
+    },
+    {
+      "order": 31,
+      "location": "Resplendent Makuun",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Sapphire Djinn Essence",
+      "quantity": 1
+    },
+    {
+      "order": 32,
+      "location": "Arborstone (explorable area)",
+      "region": "Echovald Forest",
+      "campaign": "Factions",
+      "item": "Stone Carving",
+      "quantity": 1
+    },
+    {
+      "order": 33,
+      "location": "North Kryta Province",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Feathered Caromi Scalps",
+      "quantity": 3
+    },
+    {
+      "order": 34,
+      "location": "Holdings of Chokhin",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Pillaged Goods",
+      "quantity": 1
+    },
+    {
+      "order": 35,
+      "location": "Haiju Lagoon",
+      "region": "Shing Jea Island",
+      "campaign": "Factions",
+      "item": "Gold Crimson Skull Coin",
+      "quantity": 1
+    },
+    {
+      "order": 36,
+      "location": "Tahnnakai Temple (explorable area)",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Jade Bracelets",
+      "quantity": 3
+    },
+    {
+      "order": 37,
+      "location": "Prophet's Path",
+      "region": "Crystal Desert",
+      "campaign": "Prophecies",
+      "item": "Minotaur Horns",
+      "quantity": 2
+    },
+    {
+      "order": 38,
+      "location": "Snake Dance",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Frosted Griffon Wings",
+      "quantity": 2
+    },
+    {
+      "order": 39,
+      "location": "Mehtani Keys",
+      "region": "Istan",
+      "campaign": "Nightfall",
+      "item": "Silver Bullion Coins",
+      "quantity": 2
+    },
+    {
+      "order": 40,
+      "location": "Morostav Trail",
+      "region": "Echovald Forest",
+      "campaign": "Factions",
+      "item": "Truffle",
+      "quantity": 1
+    },
+    {
+      "order": 41,
+      "location": "Verdant Cascades",
+      "region": "Tarnished Coast",
+      "campaign": "Eye of the North",
+      "item": "Skelk Claws",
+      "quantity": 3
+    },
+    {
+      "order": 42,
+      "location": "The Scar",
+      "region": "Crystal Desert",
+      "campaign": "Prophecies",
+      "item": "Dessicated Hydra Claws",
+      "quantity": 2
+    },
+    {
+      "order": 43,
+      "location": "Spearhead Peak",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Frigid Hearts",
+      "quantity": 3
+    },
+    {
+      "order": 44,
+      "location": "Nahpui Quarter (explorable area)",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Celestial Essences",
+      "quantity": 3
+    },
+    {
+      "order": 45,
+      "location": "Lornar's Pass",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Phantom Residue",
+      "quantity": 1
+    },
+    {
+      "order": 46,
+      "location": "Issnur Isles",
+      "region": "Istan",
+      "campaign": "Nightfall",
+      "item": "Drake Kabob",
+      "quantity": 1
+    },
+    {
+      "order": 47,
+      "location": "Ferndale",
+      "region": "Echovald Forest",
+      "campaign": "Factions",
+      "item": "Amber Chunks",
+      "quantity": 3
+    },
+    {
+      "order": 48,
+      "location": "Stingray Strand",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Glowing Hearts",
+      "quantity": 2
+    },
+    {
+      "order": 49,
+      "location": "Riven Earth",
+      "region": "Tarnished Coast",
+      "campaign": "Eye of the North",
+      "item": "Saurian Bones",
+      "quantity": 5
+    },
+    {
+      "order": 50,
+      "location": "Wilderness of Bahdza",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Behemoth Hides",
+      "quantity": 2
+    },
+    {
+      "order": 51,
+      "location": "Crystal Overlook",
+      "region": "The Desolation",
+      "campaign": "Nightfall",
+      "item": "Luminous Stone",
+      "quantity": 1
+    },
+    {
+      "order": 52,
+      "location": "Witman's Folly",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Intricate Grawl Necklaces",
+      "quantity": 3
+    },
+    {
+      "order": 53,
+      "location": "Shadow's Passage",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Jadeite Shards",
+      "quantity": 3
+    },
+    {
+      "order": 54,
+      "location": "Barbarous Shore",
+      "region": "Kourna",
+      "campaign": "Nightfall",
+      "item": "Gold Doubloon",
+      "quantity": 1
+    },
+    {
+      "order": 55,
+      "location": "Skyward Reach",
+      "region": "Crystal Desert",
+      "campaign": "Prophecies",
+      "item": "Shriveled Eyes",
+      "quantity": 2
+    },
+    {
+      "order": 56,
+      "location": "Icedome",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Icy Lodestones",
+      "quantity": 2
+    },
+    {
+      "order": 57,
+      "location": "Silent Surf",
+      "region": "The Jade Sea",
+      "campaign": "Factions",
+      "item": "Keen Oni Talon",
+      "quantity": 1
+    },
+    {
+      "order": 58,
+      "location": "Nebo Terrace",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Hardened Humps",
+      "quantity": 2
+    },
+    {
+      "order": 59,
+      "location": "Drakkar Lake",
+      "region": "Far Shiverpeaks",
+      "campaign": "Eye of the North",
+      "item": "Piles of Elemental Dust",
+      "quantity": 2
+    },
+    {
+      "order": 60,
+      "location": "Panjiang Peninsula",
+      "region": "Shing Jea Island",
+      "campaign": "Factions",
+      "item": "Naga Hides",
+      "quantity": 3
+    },
+    {
+      "order": 61,
+      "location": "Griffon's Mouth",
+      "region": "Northern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Spiritwood Planks",
+      "quantity": 3
+    },
+    {
+      "order": 62,
+      "location": "Pockmark Flats",
+      "region": "Ascalon",
+      "campaign": "Prophecies",
+      "item": "Stormy Eye",
+      "quantity": 1
+    },
+    {
+      "order": 63,
+      "location": "Forum Highlands",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Skree Wings",
+      "quantity": 3
+    },
+    {
+      "order": 64,
+      "location": "Raisu Palace (explorable area)",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Soul Stones",
+      "quantity": 3
+    },
+    {
+      "order": 65,
+      "location": "Tears of the Fallen",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Spiked Crest",
+      "quantity": 1
+    },
+    {
+      "order": 66,
+      "location": "Drazach Thicket",
+      "region": "Echovald Forest",
+      "campaign": "Factions",
+      "item": "Dragon Root",
+      "quantity": 1
+    },
+    {
+      "order": 67,
+      "location": "Jaga Moraine",
+      "region": "Far Shiverpeaks",
+      "campaign": "Eye of the North",
+      "item": "Berserker Horns",
+      "quantity": 3
+    },
+    {
+      "order": 68,
+      "location": "Mamnoon Lagoon",
+      "region": "Maguuma Jungle",
+      "campaign": "Prophecies",
+      "item": "Behemoth Jaw",
+      "quantity": 1
+    },
+    {
+      "order": 69,
+      "location": "Zehlon Reach",
+      "region": "Istan",
+      "campaign": "Nightfall",
+      "item": "Bowl of Skalefin Soup",
+      "quantity": 1
+    },
+    {
+      "order": 70,
+      "location": "Kessex Peak",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Forest Minotaur Horns",
+      "quantity": 2
+    },
+    {
+      "order": 71,
+      "location": "Sunjiang District (explorable area)",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Putrid Cysts",
+      "quantity": 3
+    },
+    {
+      "order": 72,
+      "location": "Salt Flats",
+      "region": "Crystal Desert",
+      "campaign": "Prophecies",
+      "item": "Jade Mandibles",
+      "quantity": 2
+    },
+    {
+      "order": 73,
+      "location": "Silverwood",
+      "region": "Maguuma Jungle",
+      "campaign": "Prophecies",
+      "item": "Maguuma Manes",
+      "quantity": 2
+    },
+    {
+      "order": 74,
+      "location": "The Eternal Grove (explorable area)",
+      "region": "Echovald Forest",
+      "campaign": "Factions",
+      "item": "Skull Juju",
+      "quantity": 1
+    },
+    {
+      "order": 75,
+      "location": "Lahtenda Bog",
+      "region": "Istan",
+      "campaign": "Nightfall",
+      "item": "Mandragor Swamproots",
+      "quantity": 3
+    },
+    {
+      "order": 76,
+      "location": "Vehtendi Valley",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Bottle of Vabbian Wine",
+      "quantity": 1
+    },
+    {
+      "order": 77,
+      "location": "Magus Stones",
+      "region": "Tarnished Coast",
+      "campaign": "Eye of the North",
+      "item": "Weaver Legs",
+      "quantity": 2
+    },
+    {
+      "order": 78,
+      "location": "Diviner's Ascent",
+      "region": "Crystal Desert",
+      "campaign": "Prophecies",
+      "item": "Topaz Crest",
+      "quantity": 1
+    },
+    {
+      "order": 79,
+      "location": "Pongmei Valley",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Rot Wallow Tusks",
+      "quantity": 2
+    },
+    {
+      "order": 80,
+      "location": "Anvil Rock",
+      "region": "Northern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Frostfire Fangs",
+      "quantity": 2
+    },
+    {
+      "order": 81,
+      "location": "The Ruptured Heart",
+      "region": "The Desolation",
+      "campaign": "Nightfall",
+      "item": "Demonic Relic",
+      "quantity": 1
+    },
+    {
+      "order": 82,
+      "location": "Talmark Wilderness",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Abnormal Seeds",
+      "quantity": 2
+    },
+    {
+      "order": 83,
+      "location": "The Hidden City of Ahdashim",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Diamond Djinn Essence",
+      "quantity": 1
+    },
+    {
+      "order": 84,
+      "location": "Vulture Drifts",
+      "region": "Crystal Desert",
+      "campaign": "Prophecies",
+      "item": "Forgotten Seals",
+      "quantity": 2
+    },
+    {
+      "order": 85,
+      "location": "Kinya Province",
+      "region": "Shing Jea Island",
+      "campaign": "Factions",
+      "item": "Copper Crimson Skull Coins",
+      "quantity": 5
+    },
+    {
+      "order": 86,
+      "location": "Ettin's Back",
+      "region": "Maguuma Jungle",
+      "campaign": "Prophecies",
+      "item": "Mossy Mandibles",
+      "quantity": 3
+    },
+    {
+      "order": 87,
+      "location": "Grenth's Footprint",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Enslavement Stones",
+      "quantity": 2
+    },
+    {
+      "order": 88,
+      "location": "Jahai Bluffs",
+      "region": "Kourna",
+      "campaign": "Nightfall",
+      "item": "Elonian Leather Squares",
+      "quantity": 5
+    },
+    {
+      "order": 89,
+      "location": "Vehjin Mines",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Cobalt Talons",
+      "quantity": 2
+    },
+    {
+      "order": 90,
+      "location": "Reed Bog",
+      "region": "Maguuma Jungle",
+      "campaign": "Prophecies",
+      "item": "Maguuma Spider Web",
+      "quantity": 1
+    },
+    {
+      "order": 91,
+      "location": "Minister Cho's Estate (explorable area)",
+      "region": "Shing Jea Island",
+      "campaign": "Factions",
+      "item": "Forgotten Trinket Boxes",
+      "quantity": 5
+    },
+    {
+      "order": 92,
+      "location": "Iron Horse Mine",
+      "region": "Northern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Icy Humps",
+      "quantity": 3
+    },
+    {
+      "order": 93,
+      "location": "The Shattered Ravines",
+      "region": "The Desolation",
+      "campaign": "Nightfall",
+      "item": "Sandblasted Lodestone",
+      "quantity": 1
+    },
+    {
+      "order": 94,
+      "location": "Archipelagos",
+      "region": "The Jade Sea",
+      "campaign": "Factions",
+      "item": "Black Pearls",
+      "quantity": 3
+    },
+    {
+      "order": 95,
+      "location": "Marga Coast",
+      "region": "Kourna",
+      "campaign": "Nightfall",
+      "item": "Insect Carapaces",
+      "quantity": 3
+    },
+    {
+      "order": 96,
+      "location": "Watchtower Coast",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Mergoyle Skulls",
+      "quantity": 3
+    },
+    {
+      "order": 97,
+      "location": "Cursed Lands",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Decayed Orr Emblems",
+      "quantity": 3
+    },
+    {
+      "order": 98,
+      "location": "Mourning Veil Falls",
+      "region": "Echovald Forest",
+      "campaign": "Factions",
+      "item": "Tempered Glass Vials",
+      "quantity": 5
+    },
+    {
+      "order": 99,
+      "location": "Old Ascalon",
+      "region": "Ascalon",
+      "campaign": "Prophecies",
+      "item": "Scorched Lodestones",
+      "quantity": 3
+    },
+    {
+      "order": 100,
+      "location": "Turai's Procession",
+      "region": "The Desolation",
+      "campaign": "Nightfall",
+      "item": "Water Djinn Essence",
+      "quantity": 1
+    },
+    {
+      "order": 101,
+      "location": "Maishang Hills",
+      "region": "The Jade Sea",
+      "campaign": "Factions",
+      "item": "Guardian Moss",
+      "quantity": 1
+    },
+    {
+      "order": 102,
+      "location": "The Floodplain of Mahnkelon",
+      "region": "Kourna",
+      "campaign": "Nightfall",
+      "item": "Dwarven Ales",
+      "quantity": 6
+    },
+    {
+      "order": 103,
+      "location": "Sparkfly Swamp",
+      "region": "Tarnished Coast",
+      "campaign": "Eye of the North",
+      "item": "Amphibian Tongues",
+      "quantity": 2
+    },
+    {
+      "order": 104,
+      "location": "Frozen Forest",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Alpine Seeds",
+      "quantity": 2
+    },
+    {
+      "order": 105,
+      "location": "Dry Top",
+      "region": "Maguuma Jungle",
+      "campaign": "Prophecies",
+      "item": "Tangled Seeds",
+      "quantity": 2
+    },
+    {
+      "order": 106,
+      "location": "Jaya Bluffs",
+      "region": "Shing Jea Island",
+      "campaign": "Factions",
+      "item": "Stolen Supplies",
+      "quantity": 3
+    },
+    {
+      "order": 107,
+      "location": "Plains of Jarin",
+      "region": "Istan",
+      "campaign": "Nightfall",
+      "item": "Pahnai Salad",
+      "quantity": 1
+    },
+    {
+      "order": 108,
+      "location": "Xaquang Skyway",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Vermin Hides",
+      "quantity": 3
+    },
+    {
+      "order": 109,
+      "location": "The Mirror of Lyss",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Roaring Ether Heart",
+      "quantity": 1
+    },
+    {
+      "order": 110,
+      "location": "Ascalon Foothills",
+      "region": "Ascalon",
+      "campaign": "Prophecies",
+      "item": "Leathery Claws",
+      "quantity": 3
+    },
+    {
+      "order": 111,
+      "location": "Unwaking Waters (explorable area)",
+      "region": "The Jade Sea",
+      "campaign": "Factions",
+      "item": "Azure Crest",
+      "quantity": 1
+    },
+    {
+      "order": 112,
+      "location": "Bjora Marches",
+      "region": "Far Shiverpeaks",
+      "campaign": "Eye of the North",
+      "item": "Jotun Pelt",
+      "quantity": 1
+    },
+    {
+      "order": 113,
+      "location": "Dejarin Estate",
+      "region": "Kourna",
+      "campaign": "Nightfall",
+      "item": "Heket Tongues",
+      "quantity": 2
+    },
+    {
+      "order": 114,
+      "location": "Talus Chute",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Mountain Troll Tusks",
+      "quantity": 5
+    },
+    {
+      "order": 115,
+      "location": "Shenzun Tunnels",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Vials of Ink",
+      "quantity": 3
+    },
+    {
+      "order": 116,
+      "location": "Gandara, the Moon Fortress",
+      "region": "Kourna",
+      "campaign": "Nightfall",
+      "item": "Kournan Pendants",
+      "quantity": 3
+    },
+    {
+      "order": 117,
+      "location": "Diessa Lowlands",
+      "region": "Ascalon",
+      "campaign": "Prophecies",
+      "item": "Singed Gargoyle Skulls",
+      "quantity": 3
+    },
+    {
+      "order": 118,
+      "location": "Melandru's Hope",
+      "region": "Echovald Forest",
+      "campaign": "Factions",
+      "item": "Dredge Incisors",
+      "quantity": 3
+    },
+    {
+      "order": 119,
+      "location": "Tasca's Demise",
+      "region": "Southern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Stone Summit Badges",
+      "quantity": 3
+    },
+    {
+      "order": 120,
+      "location": "Arbor Bay",
+      "region": "Tarnished Coast",
+      "campaign": "Eye of the North",
+      "item": "Krait Skins",
+      "quantity": 3
+    },
+    {
+      "order": 121,
+      "location": "Joko's Domain",
+      "region": "The Desolation",
+      "campaign": "Nightfall",
+      "item": "Inscribed Shards",
+      "quantity": 2
+    },
+    {
+      "order": 122,
+      "location": "Sunqua Vale",
+      "region": "Shing Jea Island",
+      "campaign": "Factions",
+      "item": "Feathered Scalps",
+      "quantity": 3
+    },
+    {
+      "order": 123,
+      "location": "The Sulfurous Wastes",
+      "region": "The Desolation",
+      "campaign": "Nightfall",
+      "item": "Mummy Wrappings",
+      "quantity": 3
+    },
+    {
+      "order": 124,
+      "location": "The Black Curtain",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Shadowy Remnants",
+      "quantity": 2
+    },
+    {
+      "order": 125,
+      "location": "The Undercity",
+      "region": "Kaineng City",
+      "campaign": "Factions",
+      "item": "Ancient Kappa Shells",
+      "quantity": 3
+    },
+    {
+      "order": 126,
+      "location": "Yatendi Canyons",
+      "region": "Vabbi",
+      "campaign": "Nightfall",
+      "item": "Geode",
+      "quantity": 1
+    },
+    {
+      "order": 127,
+      "location": "Grothmar Wardowns",
+      "region": "Charr Homelands",
+      "campaign": "Eye of the North",
+      "item": "Fibrous Mandragor Roots",
+      "quantity": 2
+    },
+    {
+      "order": 128,
+      "location": "Dragon's Gullet",
+      "region": "Ascalon",
+      "campaign": "Prophecies",
+      "item": "Gruesome Ribcages",
+      "quantity": 3
+    },
+    {
+      "order": 129,
+      "location": "Boreas Seabed (explorable area)",
+      "region": "The Jade Sea",
+      "campaign": "Factions",
+      "item": "Kraken Eyes",
+      "quantity": 2
+    },
+    {
+      "order": 130,
+      "location": "Scoundrel's Rise",
+      "region": "Kryta",
+      "campaign": "Prophecies",
+      "item": "Bog Skale Fins",
+      "quantity": 3
+    },
+    {
+      "order": 131,
+      "location": "Sunward Marches",
+      "region": "Kourna",
+      "campaign": "Nightfall",
+      "item": "Sentient Spores",
+      "quantity": 2
+    },
+    {
+      "order": 132,
+      "location": "Sage Lands",
+      "region": "Maguuma Jungle",
+      "campaign": "Prophecies",
+      "item": "Ancient Eyes",
+      "quantity": 2
+    },
+    {
+      "order": 133,
+      "location": "Cliffs of Dohjok",
+      "region": "Istan",
+      "campaign": "Nightfall",
+      "item": "Copper Shillings",
+      "quantity": 3
+    },
+    {
+      "order": 134,
+      "location": "Norrhart Domains",
+      "region": "Far Shiverpeaks",
+      "campaign": "Eye of the North",
+      "item": "Frigid Mandragor Husks",
+      "quantity": 3
+    },
+    {
+      "order": 135,
+      "location": "Traveler's Vale",
+      "region": "Northern Shiverpeaks",
+      "campaign": "Prophecies",
+      "item": "Bolts of Linen",
+      "quantity": 3
+    },
+    {
+      "order": 136,
+      "location": "Flame Temple Corridor",
+      "region": "Ascalon",
+      "campaign": "Prophecies",
+      "item": "Charr Carvings",
+      "quantity": 3
+    }
+  ]
+}

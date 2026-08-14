@@ -1,0 +1,100 @@
+{
+  "weekly_bonuses": {
+    "reference_date": "2026-08-10T15:00:00Z",
+    "reset_time": "15:00:00Z",
+    "period": "weekly",
+
+    "pve": {
+      "reference_order": 8,
+      "rotation_length": 9,
+      "rotation": [
+        {
+          "order": 1,
+          "name": "Extra Luck Bonus",
+          "description": "Keys and lockpicks drop at four times the usual rate and double Lucky and Unlucky title points"
+        },
+        {
+          "order": 2,
+          "name": "Elonian Support Bonus",
+          "description": "Double Sunspear and Lightbringer points"
+        },
+        {
+          "order": 3,
+          "name": "Zaishen Bounty Bonus",
+          "description": "Double copper Zaishen Coin rewards for Zaishen bounties"
+        },
+        {
+          "order": 4,
+          "name": "Factions Elite Bonus",
+          "description": "The Deep and Urgoz's Warren can be entered from Kaineng Center"
+        },
+        {
+          "order": 5,
+          "name": "Northern Support Bonus",
+          "description": "Double Asura, Deldrimor, Ebon Vanguard, or Norn reputation points"
+        },
+        {
+          "order": 6,
+          "name": "Zaishen Mission Bonus",
+          "description": "Double copper Zaishen Coin rewards for Zaishen missions"
+        },
+        {
+          "order": 7,
+          "name": "Pantheon Bonus",
+          "description": "Free passage to the Underworld and the Fissure of Woe"
+        },
+        {
+          "order": 8,
+          "name": "Faction Support Bonus",
+          "description": "Double Kurzick and Luxon title track points for exchanging faction"
+        },
+        {
+          "order": 9,
+          "name": "Zaishen Vanquishing Bonus",
+          "description": "Double copper Zaishen Coin rewards for Zaishen vanquishes"
+        }
+      ]
+    },
+
+    "pvp": {
+      "reference_order": 2,
+      "rotation_length": 6,
+      "rotation": [
+        {
+          "order": 1,
+          "name": "Random Arenas Bonus",
+          "description": "Double Balthazar faction and Gladiator title points in Random Arenas"
+        },
+        {
+          "order": 2,
+          "name": "Guild Versus Guild Bonus",
+          "description": "Double Balthazar faction and Champion title points in GvG"
+        },
+        {
+          "order": 3,
+          "name": "Competitive Mission Bonus",
+          "description": "Double Balthazar and Imperial faction in the Jade Quarry and Fort Aspenwood"
+        },
+        {
+          "order": 4,
+          "name": "Heroes' Ascent Bonus",
+          "description": "Double Balthazar faction and Hero title points in Heroes' Ascent"
+        },
+        {
+          "order": 5,
+          "name": "Codex Arena Bonus",
+          "description": "Double Balthazar faction and Codex title points in Codex Arena"
+        },
+        {
+          "order": 6,
+          "name": "Alliance Battle Bonus",
+          "description": "Double Balthazar and Imperial faction in Alliance Battles"
+        }
+      ]
+    },
+
+    "notes": [
+      "Faction Support Bonus is considered a PvE weekly bonus, but Imperial faction gained from PvP can be exchanged for Kurzick or Luxon faction, making it effectively both PvE and PvP."
+    ]
+  }
+}
