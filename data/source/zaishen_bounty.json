@@ -1,0 +1,272 @@
+{
+  "type": "Zaishen Bounty",
+  "reference_date": "2009-06-11T16:00:00Z",
+  "reset_time": "16:00:00Z",
+  "cycle_length": 66,
+  "quests": [
+    {
+      "order": 0,
+      "name": "Droajam, Mage of the Sands"
+    },
+    {
+      "order": 1,
+      "name": "Royen Beastkeeper"
+    },
+    {
+      "order": 2,
+      "name": "Eldritch Ettin"
+    },
+    {
+      "order": 3,
+      "name": "Vengeful Aatxe"
+    },
+    {
+      "order": 4,
+      "name": "Fronis Irontoe"
+    },
+    {
+      "order": 5,
+      "name": "Urgoz"
+    },
+    {
+      "order": 6,
+      "name": "Fenrir"
+    },
+    {
+      "order": 7,
+      "name": "Selvetarm"
+    },
+    {
+      "order": 8,
+      "name": "Mohby Windbeak"
+    },
+    {
+      "order": 9,
+      "name": "Charged Blackness"
+    },
+    {
+      "order": 10,
+      "name": "Rotscale"
+    },
+    {
+      "order": 11,
+      "name": "Zoldark the Unholy"
+    },
+    {
+      "order": 12,
+      "name": "Korshek the Immolated"
+    },
+    {
+      "order": 13,
+      "name": "Myish, Lady of the Lake"
+    },
+    {
+      "order": 14,
+      "name": "Frostmaw the Kinslayer"
+    },
+    {
+      "order": 15,
+      "name": "Kunvie Firewing"
+    },
+    {
+      "order": 16,
+      "name": "Z'him Monns"
+    },
+    {
+      "order": 17,
+      "name": "The Greater Darkness"
+    },
+    {
+      "order": 18,
+      "name": "TPS Regulator Golem"
+    },
+    {
+      "order": 19,
+      "name": "Plague of Destruction"
+    },
+    {
+      "order": 20,
+      "name": "The Darknesses"
+    },
+    {
+      "order": 21,
+      "name": "Admiral Kantoh"
+    },
+    {
+      "order": 22,
+      "name": "Borrguus Blisterbark"
+    },
+    {
+      "order": 23,
+      "name": "Forgewight"
+    },
+    {
+      "order": 24,
+      "name": "Baubao Wavewrath"
+    },
+    {
+      "order": 25,
+      "name": "Joffs the Mitigator"
+    },
+    {
+      "order": 26,
+      "name": "Rragar Maneater"
+    },
+    {
+      "order": 27,
+      "name": "Chung, the Attuned"
+    },
+    {
+      "order": 28,
+      "name": "Lord Jadoth"
+    },
+    {
+      "order": 29,
+      "name": "Nulfastu, Earthbound"
+    },
+    {
+      "order": 30,
+      "name": "The Iron Forgeman"
+    },
+    {
+      "order": 31,
+      "name": "Magmus"
+    },
+    {
+      "order": 32,
+      "name": "Mobrin, Lord of the Marsh"
+    },
+    {
+      "order": 33,
+      "name": "Jarimiya the Unmerciful"
+    },
+    {
+      "order": 34,
+      "name": "Duncan the Black"
+    },
+    {
+      "order": 35,
+      "name": "Quansong Spiritspeak"
+    },
+    {
+      "order": 36,
+      "name": "The Stygian Underlords"
+    },
+    {
+      "order": 37,
+      "name": "Fozzy Yeoryios"
+    },
+    {
+      "order": 38,
+      "name": "The Black Beast of Arrgh"
+    },
+    {
+      "order": 39,
+      "name": "Arachni"
+    },
+    {
+      "order": 40,
+      "name": "The Four Horsemen"
+    },
+    {
+      "order": 41,
+      "name": "Remnant of Antiquities"
+    },
+    {
+      "order": 42,
+      "name": "Arbor Earthcall"
+    },
+    {
+      "order": 43,
+      "name": "Prismatic Ooze"
+    },
+    {
+      "order": 44,
+      "name": "Lord Khobay"
+    },
+    {
+      "order": 45,
+      "name": "Jedeh the Mighty"
+    },
+    {
+      "order": 46,
+      "name": "Ssuns, Blessed of Dwayna"
+    },
+    {
+      "order": 47,
+      "name": "Justiciar Thommis"
+    },
+    {
+      "order": 48,
+      "name": "Harn and Maxine Coldstone"
+    },
+    {
+      "order": 49,
+      "name": "Pywatt the Swift"
+    },
+    {
+      "order": 50,
+      "name": "Fendi Nin"
+    },
+    {
+      "order": 51,
+      "name": "Mungri Magicbox"
+    },
+    {
+      "order": 52,
+      "name": "Priest of Menzies"
+    },
+    {
+      "order": 53,
+      "name": "Ilsundur, Lord of Fire"
+    },
+    {
+      "order": 54,
+      "name": "Kepkhet Marrowfeast"
+    },
+    {
+      "order": 55,
+      "name": "Commander Wahli"
+    },
+    {
+      "order": 56,
+      "name": "Kanaxai"
+    },
+    {
+      "order": 57,
+      "name": "Khabuus"
+    },
+    {
+      "order": 58,
+      "name": "Molotov Rocktail"
+    },
+    {
+      "order": 59,
+      "name": "The Stygian Lords"
+    },
+    {
+      "order": 60,
+      "name": "Dragon Lich"
+    },
+    {
+      "order": 61,
+      "name": "Havok Soulwail"
+    },
+    {
+      "order": 62,
+      "name": "Ghial the Bone Dancer"
+    },
+    {
+      "order": 63,
+      "name": "Murakai, Lady of the Night"
+    },
+    {
+      "order": 64,
+      "name": "Rand Stormweaver"
+    },
+    {
+      "order": 65,
+      "name": "Verata"
+    }
+  ]
+}
