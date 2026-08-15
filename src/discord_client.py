@@ -14,14 +14,23 @@ if not webhook_url:
     )
 
 
-def send_message(message: str) -> None:
+def send_message(
+    message: str | None = None,
+    embed: dict | None = None,
+) -> None:
     webhook_url = os.environ["DISCORD_WEBHOOK_URL"]
+
+    payload = {}
+
+    if message:
+        payload["content"] = message
+
+    if embed:
+        payload["embeds"] = [embed]
 
     response = requests.post(
         webhook_url,
-        json={
-            "content": message,
-        },
+        json=payload,
         timeout=10,
     )
 
