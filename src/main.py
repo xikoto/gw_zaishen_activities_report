@@ -43,6 +43,8 @@ def main():
 
     send_message(embed=embed)
 
+    print("Guild Wars 1 — Daily Activities OK")
+
 
 if __name__ == "__main__":
     main()
