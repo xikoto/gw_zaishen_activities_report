@@ -1,9 +1,23 @@
 from datetime import date
+from pathlib import Path
+
+import pytest
 
 from zaishen_rotation import ZaishenRotation
 
 
 JSON_PATH = "data/source/zaishen_combat.json"
+DATA_PATH = Path("data/source")
+
+SOURCE_FILES = [
+    "nicholas_sandford.json",
+    "shining_blade.json",
+    "vanguard_quest.json",
+    "zaishen_bounty.json",
+    "zaishen_combat.json",
+    "zaishen_missions.json",
+    "zaishen_vanquish.json",
+]
 
 
 def test_reference_date_returns_first_quest():
@@ -58,3 +72,33 @@ def test_date_before_reference_date_wraps_cycle():
 
     assert quest["order"] == 27
     assert quest["name"] == "Alliance Battles"
+
+
+@pytest.mark.parametrize("filename", SOURCE_FILES)
+def test_source_file_can_be_loaded(filename):
+    rotation = ZaishenRotation(DATA_PATH / filename)
+
+    assert rotation.type
+    assert rotation.reference_date
+    assert rotation.cycle_length > 0
+    assert len(rotation.quests) == rotation.cycle_length
+
+
+@pytest.mark.parametrize("filename", SOURCE_FILES)
+def test_source_file_has_valid_quest_orders(filename):
+    rotation = ZaishenRotation(DATA_PATH / filename)
+
+    orders = [quest["order"] for quest in rotation.quests]
+
+    assert orders == list(range(rotation.cycle_length))
+
+
+@pytest.mark.parametrize("filename", SOURCE_FILES)
+def test_source_file_can_get_today_quest(filename):
+    rotation = ZaishenRotation(DATA_PATH / filename)
+
+    quest = rotation.get_today_quest()
+
+    assert quest is not None
+    assert quest["order"] in range(rotation.cycle_length)
+    assert quest["name"]
