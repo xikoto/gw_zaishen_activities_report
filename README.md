@@ -22,7 +22,7 @@ The activities are calculated from local rotation data, so the bot does not need
 
 ## How it works
 
-The project uses **GitHub Actions** as a cron scheduler.
+The project uses **GitHub Actions** as a cron scheduler. The bot runs automatically every day at 16:05 UTC using GitHub Actions. If you want to test the bot manually, you can also run the workflow directly from the Actions section of your GitHub repository, without having to wait for the scheduled execution.
 
 At the configured time, GitHub Actions:
 
@@ -420,7 +420,7 @@ Este proyecto es un bot para **Discord** que publica automáticamente las
 actividades diarias de **Guild Wars 1** en un canal de Discord.
 
 El bot utiliza **GitHub Actions** como sistema de cron, por lo que no necesita
-un servidor funcionando permanentemente.
+un servidor funcionando permanentemente. El bot se ejecuta automáticamente todos los días a las 16:05 UTC mediante GitHub Actions. Si quieres probar el bot manualmente, también puedes ejecutar el workflow directamente desde la sección Actions de tu repositorio de GitHub, sin tener que esperar a la ejecución programada.
 
 Actualmente soporta:
 
