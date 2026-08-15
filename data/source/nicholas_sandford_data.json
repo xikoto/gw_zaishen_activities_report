@@ -1,0 +1,268 @@
+{
+  "type": "Nicholas Sandford",
+  "reference_date": "2009-04-09T07:00:00Z",
+  "reset_time": "07:00:00Z",
+  "cycle_length": 52,
+  "quests": [
+    {
+      "order": 0,
+      "name": "Grawl Necklace",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Grawl_Necklace"
+    },
+    {
+      "order": 1,
+      "name": "Baked Husk",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Baked_Husk"
+    },
+    {
+      "order": 2,
+      "name": "Skeletal Limb",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Skeletal_Limb"
+    },
+    {
+      "order": 3,
+      "name": "Unnatural Seed",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Unnatural_Seed"
+    },
+    {
+      "order": 4,
+      "name": "Enchanted Lodestone",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Enchanted_Lodestone"
+    },
+    {
+      "order": 5,
+      "name": "Skale Fin",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Skale_Fin"
+    },
+    {
+      "order": 6,
+      "name": "Icy Lodestone",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Icy_Lodestone"
+    },
+    {
+      "order": 7,
+      "name": "Gargoyle Skull",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Gargoyle_Skull"
+    },
+    {
+      "order": 8,
+      "name": "Dull Carapace",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Dull_Carapace"
+    },
+    {
+      "order": 9,
+      "name": "Baked Husk",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Baked_Husk"
+    },
+    {
+      "order": 10,
+      "name": "Red Iris Flower",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Red_Iris_Flower"
+    },
+    {
+      "order": 11,
+      "name": "Spider Leg",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Spider_Leg"
+    },
+    {
+      "order": 12,
+      "name": "Skeletal Limb",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Skeletal_Limb"
+    },
+    {
+      "order": 13,
+      "name": "Charr Carving",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Charr_Carving"
+    },
+    {
+      "order": 14,
+      "name": "Enchanted Lodestone",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Enchanted_Lodestone"
+    },
+    {
+      "order": 15,
+      "name": "Grawl Necklace",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Grawl_Necklace"
+    },
+    {
+      "order": 16,
+      "name": "Icy Lodestone",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Icy_Lodestone"
+    },
+    {
+      "order": 17,
+      "name": "Worn Belt",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Worn_Belt"
+    },
+    {
+      "order": 18,
+      "name": "Gargoyle Skull",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Gargoyle_Skull"
+    },
+    {
+      "order": 19,
+      "name": "Unnatural Seed",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Unnatural_Seed"
+    },
+    {
+      "order": 20,
+      "name": "Skale Fin",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Skale_Fin"
+    },
+    {
+      "order": 21,
+      "name": "Red Iris Flower",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Red_Iris_Flower"
+    },
+    {
+      "order": 22,
+      "name": "Enchanted Lodestone",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Enchanted_Lodestone"
+    },
+    {
+      "order": 23,
+      "name": "Skeletal Limb",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Skeletal_Limb"
+    },
+    {
+      "order": 24,
+      "name": "Charr Carving",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Charr_Carving"
+    },
+    {
+      "order": 25,
+      "name": "Spider Leg",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Spider_Leg"
+    },
+    {
+      "order": 26,
+      "name": "Baked Husk",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Baked_Husk"
+    },
+    {
+      "order": 27,
+      "name": "Gargoyle Skull",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Gargoyle_Skull"
+    },
+    {
+      "order": 28,
+      "name": "Unnatural Seed",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Unnatural_Seed"
+    },
+    {
+      "order": 29,
+      "name": "Icy Lodestone",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Icy_Lodestone"
+    },
+    {
+      "order": 30,
+      "name": "Grawl Necklace",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Grawl_Necklace"
+    },
+    {
+      "order": 31,
+      "name": "Enchanted Lodestone",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Enchanted_Lodestone"
+    },
+    {
+      "order": 32,
+      "name": "Worn Belt",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Worn_Belt"
+    },
+    {
+      "order": 33,
+      "name": "Dull Carapace",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Dull_Carapace"
+    },
+    {
+      "order": 34,
+      "name": "Spider Leg",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Spider_Leg"
+    },
+    {
+      "order": 35,
+      "name": "Gargoyle Skull",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Gargoyle_Skull"
+    },
+    {
+      "order": 36,
+      "name": "Icy Lodestone",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Icy_Lodestone"
+    },
+    {
+      "order": 37,
+      "name": "Unnatural Seed",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Unnatural_Seed"
+    },
+    {
+      "order": 38,
+      "name": "Worn Belt",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Worn_Belt"
+    },
+    {
+      "order": 39,
+      "name": "Grawl Necklace",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Grawl_Necklace"
+    },
+    {
+      "order": 40,
+      "name": "Baked Husk",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Baked_Husk"
+    },
+    {
+      "order": 41,
+      "name": "Skeletal Limb",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Skeletal_Limb"
+    },
+    {
+      "order": 42,
+      "name": "Red Iris Flower",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Red_Iris_Flower"
+    },
+    {
+      "order": 43,
+      "name": "Charr Carving",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Charr_Carving"
+    },
+    {
+      "order": 44,
+      "name": "Skale Fin",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Skale_Fin"
+    },
+    {
+      "order": 45,
+      "name": "Dull Carapace",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Dull_Carapace"
+    },
+    {
+      "order": 46,
+      "name": "Enchanted Lodestone",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Enchanted_Lodestone"
+    },
+    {
+      "order": 47,
+      "name": "Charr Carving",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Charr_Carving"
+    },
+    {
+      "order": 48,
+      "name": "Spider Leg",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Spider_Leg"
+    },
+    {
+      "order": 49,
+      "name": "Red Iris Flower",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Red_Iris_Flower"
+    },
+    {
+      "order": 50,
+      "name": "Worn Belt",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Worn_Belt"
+    },
+    {
+      "order": 51,
+      "name": "Dull Carapace",
+      "wiki_url": "https://wiki.guildwars.com/wiki/Dull_Carapace"
+    }
+  ]
+}

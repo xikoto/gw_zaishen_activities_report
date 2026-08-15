@@ -1,0 +1,239 @@
+{
+  "type": "Shining Blade",
+  "reference_date": "2010-06-08T16:00:00Z",
+  "reset_time": "16:00:00Z",
+  "cycle_length": 21,
+  "quests": [
+    {
+      "order": 0,
+      "name": "Justiciar Kimii",
+      "location": "Riverside Province",
+      "gold": 1000,
+      "war_supplies": {
+        "nm": 15,
+        "hm": 22
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Justiciar_Kimii"
+    },
+    {
+      "order": 1,
+      "name": "Zaln the Jaded",
+      "location": "D'Alessio Seaboard",
+      "gold": 750,
+      "war_supplies": {
+        "nm": 10,
+        "hm": 15
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Zaln_the_Jaded"
+    },
+    {
+      "order": 2,
+      "name": "Justiciar Sevaan",
+      "location": "Divinity Coast",
+      "gold": 1000,
+      "war_supplies": {
+        "nm": 15,
+        "hm": 22
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Justiciar_Sevaan"
+    },
+    {
+      "order": 3,
+      "name": "Insatiable Vakar",
+      "location": "North Kryta Province",
+      "gold": 500,
+      "war_supplies": {
+        "nm": 7,
+        "hm": 10
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Insatiable_Vakar"
+    },
+    {
+      "order": 4,
+      "name": "Amalek the Unmerciful",
+      "location": "Watchtower Coast",
+      "gold": 750,
+      "war_supplies": {
+        "nm": 10,
+        "hm": 15
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Amalek_the_Unmerciful"
+    },
+    {
+      "order": 5,
+      "name": "Carnak the Hungry",
+      "location": "The Black Curtain",
+      "gold": 500,
+      "war_supplies": {
+        "nm": 7,
+        "hm": 10
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Carnak_the_Hungry"
+    },
+    {
+      "order": 6,
+      "name": "Valis the Rampant",
+      "location": "Twin Serpent Lakes",
+      "gold": 250,
+      "war_supplies": {
+        "nm": 3,
+        "hm": 4
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Valis_the_Rampant"
+    },
+    {
+      "order": 7,
+      "name": "Cerris",
+      "location": "Nebo Terrace",
+      "gold": 750,
+      "war_supplies": {
+        "nm": 10,
+        "hm": 15
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Cerris"
+    },
+    {
+      "order": 8,
+      "name": "Sarnia the Red-Handed",
+      "location": "North Kryta Province",
+      "gold": 250,
+      "war_supplies": {
+        "nm": 3,
+        "hm": 4
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Sarnia_the_Red-Handed"
+    },
+    {
+      "order": 9,
+      "name": "Destor the Truth Seeker",
+      "location": "Kessex Peak",
+      "gold": 750,
+      "war_supplies": {
+        "nm": 10,
+        "hm": 15
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Destor_the_Truth_Seeker"
+    },
+    {
+      "order": 10,
+      "name": "Selenas the Blunt",
+      "location": "Twin Serpent Lakes",
+      "gold": 250,
+      "war_supplies": {
+        "nm": 3,
+        "hm": 4
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Selenas_the_Blunt"
+    },
+    {
+      "order": 11,
+      "name": "Justiciar Amilyn",
+      "location": "Kessex Peak",
+      "gold": 750,
+      "war_supplies": {
+        "nm": 10,
+        "hm": 15
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Justiciar_Amilyn"
+    },
+    {
+      "order": 12,
+      "name": "Maximilian the Meticulous",
+      "location": "Nebo Terrace",
+      "gold": 250,
+      "war_supplies": {
+        "nm": 3,
+        "hm": 4
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Maximilian_the_Meticulous"
+    },
+    {
+      "order": 13,
+      "name": "Joh the Hostile",
+      "location": "Scoundrel's Rise",
+      "gold": 250,
+      "war_supplies": {
+        "nm": 3,
+        "hm": 4
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Joh_the_Hostile"
+    },
+    {
+      "order": 14,
+      "name": "Barthimus the Provident",
+      "location": "Cursed Lands",
+      "gold": 750,
+      "war_supplies": {
+        "nm": 10,
+        "hm": 15
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Barthimus_the_Provident"
+    },
+    {
+      "order": 15,
+      "name": "Calamitous",
+      "location": "Watchtower Coast",
+      "gold": 750,
+      "war_supplies": {
+        "nm": 10,
+        "hm": 15
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Calamitous"
+    },
+    {
+      "order": 16,
+      "name": "Greves the Overbearing",
+      "location": "The Black Curtain",
+      "gold": 500,
+      "war_supplies": {
+        "nm": 7,
+        "hm": 10
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Greves_the_Overbearing"
+    },
+    {
+      "order": 17,
+      "name": "Lev the Condemned",
+      "location": "North Kryta Province",
+      "gold": 250,
+      "war_supplies": {
+        "nm": 3,
+        "hm": 4
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Lev_the_Condemned"
+    },
+    {
+      "order": 18,
+      "name": "Justiciar Marron",
+      "location": "Kessex Peak",
+      "gold": 750,
+      "war_supplies": {
+        "nm": 10,
+        "hm": 15
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Justiciar_Marron"
+    },
+    {
+      "order": 19,
+      "name": "Justiciar Kasandra",
+      "location": "D'Alessio Seaboard",
+      "gold": 1000,
+      "war_supplies": {
+        "nm": 15,
+        "hm": 22
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Justiciar_Kasandra"
+    },
+    {
+      "order": 20,
+      "name": "Vess the Disputant",
+      "location": "Divinity Coast",
+      "gold": 750,
+      "war_supplies": {
+        "nm": 10,
+        "hm": 15
+      },
+      "wiki_url": "https://wiki.guildwars.com/wiki/Wanted:_Vess_the_Disputant"
+    }
+  ]
+}

@@ -12,6 +12,18 @@ schedule:
 
 discord:
   enabled: true
+  daily:
+    title: "🎮 Guild Wars 1 — Daily Activities"
+    description: "{date}"
+
+    labels:
+      "Zaishen Bounty": "🎯 Zaishen Bounty"
+      "Zaishen Combat": "⚔️ Zaishen Combat"
+      "Zaishen Mission": "📜 Zaishen Mission"
+      "Zaishen Vanquish": "💀 Zaishen Vanquish"
+      "Vanguard Quest": "🛡️ Vanguard"
+      "Shining Blade": "⚔️ Shining Blade"
+      "Nicholas Sandford": "🎒 Nicholas Sandford"
 
 storage:
   results_directory: "data/results"
