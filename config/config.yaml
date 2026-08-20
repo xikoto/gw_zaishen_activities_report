@@ -12,6 +12,7 @@ schedule:
 
 discord:
   enabled: true
+
   daily:
     title: "🎮 Guild Wars 1 — Daily Activities"
     description: "{date}"
@@ -24,6 +25,13 @@ discord:
       "Vanguard Quest": "🛡️ Vanguard"
       "Shining Blade": "⚔️ Shining Blade"
       "Nicholas Sandford": "🎒 Nicholas Sandford"
+
+  events:
+    enabled: true
+    name_prefix: "[GW1-Daily]"
+    start_time: "23:00"
+    end_time: "23:59"
+    timezone: "Europe/Madrid"
 
 storage:
   results_directory: "data/results"
